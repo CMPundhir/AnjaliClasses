@@ -1,0 +1,76 @@
+.container {
+    width: 90%;
+    padding: 0px;
+    height: 500px;
+}
+
+.card {
+    padding: 2px;
+    /*    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+*/
+}
+
+/*.form-group {
+    margin-top: 30px;
+}*/
+
+.card_date {
+    text-align: right;
+}
+
+.card-body p {
+    font-size: 12px;
+    /*    border: 1px solid red;*/
+    margin: 0px;
+    padding: 0px;
+}
+
+.vals {
+    color: slategray;
+    font-style: oblique;
+}
+
+
+.units {
+    width: 60px
+}
+
+.Denom {
+    width: 30px;
+}
+
+.table {
+    text-align: center;
+    font-size: 10px;
+    /*    outline: 2px solid #f7f5f5;*/
+    color: #505057;
+}
+
+.mytotal {
+    color: black;
+}
+
+.table td {
+    padding: 0px;
+    /*    border: 1px solid black;*/
+}
+
+#total {
+    background-color: red;
+}
+
+tbody {
+    border: 0px transparent;
+}
+
+@media print {
+    .buttonP {
+        display: none;
+    }
+}
+
+
+
+/*.buttonP {
+    background-image: url(https://fontawesome.com/v5.15/icons/print?style=solid);
+}*/

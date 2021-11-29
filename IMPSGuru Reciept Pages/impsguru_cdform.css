@@ -1,0 +1,75 @@
+.container {
+    margin-top: 2px;
+    height: 500px;
+
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+form {
+    padding: 50px;
+    /*    margin: 10px;*/
+
+
+}
+
+label {
+    font-family: "Poppins", sans-serif;
+    padding-bottom: 5px;
+    padding-top: 20px;
+}
+
+input {
+    height: 40px;
+}
+
+
+
+/*calculator part*/
+.collapse {
+    font-family: "Poppins", sans-serif;
+}
+
+#Calheader {
+    background-color: #428f5d;
+    color: white;
+    padding: 10px;
+}
+/*table tr:hover {
+    background-color: #cbf2e2;
+    outline: 1px solid #cbf2e2;
+}*/
+
+
+/*.btnsmt {
+    background-color: #428f5d;
+    color: white;
+    border-radius: 6px;
+    width: 110px;
+    margin-left: 16px;
+    color: white;
+}
+
+.btnsmt:focus {
+    color: black;
+
+
+}*/
+.btnreset {
+    border-radius: 6px;
+    width: 110px;
+    margin: 0px;
+}
+
+.card-header {
+    background-color: #1976D2;
+    color: white;
+}
+
+.form-col {
+    padding: 8px;
+    margin: 16px;
+}
